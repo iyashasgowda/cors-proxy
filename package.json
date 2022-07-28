@@ -1,6 +1,6 @@
 {
   "name": "cors-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CORS Proxy is a NodeJS proxy which adds CORS headers to the proxied request.",
   "main": "index.js",
   "scripts": {
